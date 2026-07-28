@@ -1,6 +1,6 @@
 # Same Graph Cross-Task Transfer
 
-Repo for "Same Graph Cross-Task Transfer: Protocols and Predictors", to appear in ICML 2026.
+Repo for "[Same Graph Cross-Task Transfer: Protocols and Predictors](https://openreview.net/forum?id=PZJyX9HDA3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions))", in **ICML 2026**.
 
 ## Running Experiments
 
